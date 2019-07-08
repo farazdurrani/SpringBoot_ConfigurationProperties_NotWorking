@@ -30,3 +30,7 @@ out/
 
 ### VS Code ###
 .vscode/
+bin/
+.attach_pid10025 .attach_pid25092
+.attach_pid10025
+.attach_pid25092
